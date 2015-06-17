@@ -1,0 +1,56 @@
+#: fixtures/example.jade:3
+msgid "translated text"
+msgstr ""
+
+#: fixtures/example.jade:4
+msgid "uses underscore"
+msgstr ""
+
+#: fixtures/example.jade:5
+msgid "has several translations"
+msgstr ""
+
+#: fixtures/example.jade:5
+msgid "in one line"
+msgstr ""
+
+#: fixtures/example.jade:11
+#. L10n: comments for translator would be cool
+msgid "because sometimes one need context"
+msgstr ""
+
+#: fixtures/example.jade:12
+msgid "and yeah - feel free to use \" here"
+msgstr ""
+
+#: fixtures/example.jade:14
+msgid "or to use ' here"
+msgstr ""
+
+#: fixtures/example.jade:18
+msgid "attributes"
+msgstr ""
+
+#: fixtures/example.jade:19
+msgid "because jade generally doesn't care"
+msgstr ""
+
+#: fixtures/example.jade:19
+msgid "how you format your line"
+msgstr ""
+
+#: fixtures/example.jade:23
+msgid "This link is in line 23 and it better points somewhere!"
+msgstr ""
+
+#: fixtures/example.jade:25
+msgid "or you can"
+msgstr ""
+
+#: fixtures/example.jade:25
+msgid "put multiple attributes"
+msgstr ""
+
+#: fixtures/example.jade:25
+msgid "in line one line (25)"
+msgstr ""

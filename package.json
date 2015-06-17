@@ -1,0 +1,39 @@
+{
+  "name": "gulp-jsxgettext",
+  "description": "Extracts gettext strings and creates *.pot files",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkalina/gulp-jsxgettext.git"
+  },
+  "author": "Jakub Kalina <kuba.kalina@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "jsxgettext",
+    "gettext",
+    "l10n",
+    "localization"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.5",
+    "jsxgettext": "^0.7.0",
+    "object-assign": "^3.0.0",
+    "through2": "^0.6.5"
+  },
+  "devDependencies": {
+    "event-stream": "^3.3.1",
+    "mocha": "^2.2.5",
+    "should": "^6.0.3",
+    "vinyl": "^0.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  }
+}
